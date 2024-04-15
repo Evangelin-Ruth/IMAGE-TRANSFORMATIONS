@@ -169,21 +169,26 @@ plt.show()
 
 ### ii) Image Scaling
 
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/1a4da4fd-d7b1-492f-9656-cb12d281e924)
 
 
 ### iii)Image shearing
 
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/a78c2a14-7b60-4e8b-9fb3-c28e5d214954)
 
 
 ### iv)Image Reflection
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/6d3ce170-8e30-4ef2-92da-7f8429eb734c)
 
 
 
 ### v)Image Rotation
 
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/e2c0c425-32e4-4010-9348-e40f067ee906)
 
 
 ### vi)Image Cropping
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/3713d1e3-da4b-47a6-8ac9-f48922681caf)
 
 
 
