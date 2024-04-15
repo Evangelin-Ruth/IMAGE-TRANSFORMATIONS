@@ -162,30 +162,38 @@ plt.show()
 ## Output:
 ### i)Image Translation:
 
-![output](./output1.png)
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/db9fd5e2-8ba1-4e7b-adfe-7fc0aa0aa402)
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/b95baf73-9167-4888-b78d-35d57f4d018c)
 
 
 ### ii) Image Scaling
 
-![output](./output2.png)
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/5d7f37f0-9c56-464b-a79e-2867d73b5bea)
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/284a204c-3673-4b0d-a05d-12cfa69cdf89)
 
 ### iii)Image shearing
 
-![output](./output3.png)
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/18253b66-70b2-4dd3-bb60-9f291ffedfb6)
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/44e0028f-b0ff-41fd-9c41-337cdc45d492)
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/9b65ba73-185a-49ec-b65a-8732f394f67f)
 
 ### iv)Image Reflection
 
-![output](./output4.png)
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/7805316c-c573-47b7-a1a9-ee9f8d379516)
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/7e297ab3-53f1-420c-9b6c-5ddf924db5be)
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/cbad7818-406a-4fca-a56d-401391d25c1f)
 
 
 ### v)Image Rotation
 
-![output](./output5.png)
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/51634186-024d-47bf-8c6e-a80ade211b7c)
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/41ca041d-553b-438b-92c2-c241ce4967a5)
 
 
 ### vi)Image Cropping
 
-![output](./output6.png)
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/66394469-d940-4618-95b7-9b3e83e27474)
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/7d040b7e-296e-4e1e-88ce-d2dec78859c7)
 
 
 
