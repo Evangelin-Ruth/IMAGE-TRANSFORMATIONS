@@ -28,8 +28,8 @@ Diifferent operations has been performed on the image.
 
 ## Program:
 ```python
-Developed By: Monisha T
-Register Number: 212221240029
+Developed By: EVANGELIN S
+Register Number: 212221230025
 
 i)Image Translation
 
