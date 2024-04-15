@@ -161,15 +161,12 @@ plt.show()
 ```
 ## Output:
 ### i)Image Translation:
-![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/c596d462-1b46-49a8-99dc-a0d610289f3e)
-
-
-
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/c596d462-1b46-49a8-99dc-a0d610289f3e)s
 
 
 ### ii) Image Scaling
 
-![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/1a4da4fd-d7b1-492f-9656-cb12d281e924)
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/e4f60710-0978-4951-a76a-47203e791e04)
 
 
 ### iii)Image shearing
