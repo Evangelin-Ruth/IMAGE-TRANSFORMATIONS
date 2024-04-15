@@ -185,11 +185,7 @@ plt.show()
 
 
 ### vi)Image Cropping
-![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/3713d1e3-da4b-47a6-8ac9-f48922681caf)
-
-
-
-
+![image](https://github.com/Evangelin-Ruth/IMAGE-TRANSFORMATIONS/assets/94219798/409ab5ad-cb03-458c-880b-f7af9e968e20)
 
 ## Result: 
 
